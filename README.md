@@ -1,10 +1,15 @@
-# 🎬 Deta — Premium Movie Discovery Platform  
 
->>>(Version 2 of CineVibe)
+
+<img src="logo.png" alt="LocateAid Logo" width="200" />
+
+# Premium Movie Discovery Platform  
+
 
 Deta is the second-generation evolution of **CineVibe**, redesigned with a cleaner UI, richer features and a more premium browsing experience.
 
 Deta is a modern movie discovery platform built to help users explore, search and analyze movies with rich details, clean design and smooth performance.
+
+>>>(Version 2 of CineVibe)
 
 ---
 
