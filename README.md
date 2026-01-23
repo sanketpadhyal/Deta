@@ -1,6 +1,6 @@
 
 
-<img src="logo.png" alt="LocateAid Logo" width="200" />
+<img src="logo.png" alt="Deta Logo" width="200" href="https://deta.netlify.app"/>
 
 # Premium Movie Discovery Platform  
 
