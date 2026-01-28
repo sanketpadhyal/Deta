@@ -9,7 +9,7 @@ Deta is the second-generation evolution of **CineVibe**, redesigned with a clean
 
 Deta is a modern movie discovery platform built to help users explore, search and analyze movies with rich details, clean design and smooth performance.
 
->>>(Version 2 of CineVibe)
+>>>(Version 2 of CineVibe) AUTH PAGE UNDER DEVELOPMENT
 
 ---
 
