@@ -85,4 +85,7 @@ This project is open for learning and portfolio demonstration purposes.
 
 ---
 
-⭐ If you like this project, consider starring the repository!
+### 📅 Project Information
+Created: Jan 23, 2026
+
+---
